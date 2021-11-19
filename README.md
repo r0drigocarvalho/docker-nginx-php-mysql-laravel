@@ -308,3 +308,8 @@ ___
 ## Help us
 
 Any thought, feedback or (hopefully not!)
+
+
+### Credit
+
+- nanoninja - [github](https://github.com/nanoninja/docker-nginx-php-mysql)
