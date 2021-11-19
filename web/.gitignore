@@ -1,0 +1,27 @@
+# Global
+.DS_Store
+.editorconfig
+.gitattributes
+.styleci.yml
+.phpunit.result.cache
+
+# Application
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# VSCode
+/.vscode
+
+
+
+
+
